@@ -1,0 +1,16 @@
+CREATE
+
+*   create a new PLAYER when start game is clicked with start time
+*   create a new FOUND when correct guess submitted //do i need this? 
+
+
+READ
+*   Read from FRIENDS when guess is submitted
+*   READ from FRIENDS total # of FRIENDS (to know when player is done)
+
+
+UPDATE 
+* Update PLAYER with end time when all # of FRIENDS are in FOUND
+
+DELETE
+* DELETE PLAYERS after a certain amount of time has passed
